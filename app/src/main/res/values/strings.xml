@@ -1,0 +1,18 @@
+<resources>
+    <string name="game">GAME</string>
+    <string name="shop">SHOP</string>
+    <string name="app_name">ClickerApp</string>
+    <string name="clicker_title">clicker GAME</string>
+    <string name="newGameButton">NOWA GRA</string>
+    <string name="exitButton">WYJSCIE</string>
+    <string name="points">%1$d points</string>
+    <string name="pointsPerSecond">per second: %d</string>
+    <string name="pointsPerClickCost">%d points</string>
+    <string name="buy">BUY</string>
+    <string name="finish_title">koniec GRY</string>
+    <string name="finishText">Elapsed time:</string>
+
+
+
+
+</resources>
